@@ -1,0 +1,1 @@
+This Python code implements a real-time face and eye detection application using OpenCV. It leverages pre-trained classifiers (haarcascade_frontalface_default.xml and haarcascade_eye.xml) to detect faces in the video stream captured from the default camera (webcam).
